@@ -1,0 +1,4 @@
+module TRPProviderPackageTests {
+    header "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPProvider/.build/arm64-apple-macosx/debug/TRPProviderPackageTests.build/TRPProviderPackageTests-Swift.h"
+    requires objc
+}

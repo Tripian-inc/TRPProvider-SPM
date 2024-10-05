@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPProvider/.build/arm64-apple-macosx/debug/TRPProvider.build/master.swiftdeps"
+  },
+  "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPProvider/Sources/TRPProvider/TRPProvider.swift": {
+    "dependencies": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPProvider/.build/arm64-apple-macosx/debug/TRPProvider.build/TRPProvider.d",
+    "object": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPProvider/.build/arm64-apple-macosx/debug/TRPProvider.build/TRPProvider.swift.o",
+    "swiftmodule": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPProvider/.build/arm64-apple-macosx/debug/TRPProvider.build/TRPProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/cemcaygoz/Documents/GitHub/ModularIOS/SPM/TRPProvider/.build/arm64-apple-macosx/debug/TRPProvider.build/TRPProvider.swiftdeps"
+  }
+}
